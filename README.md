@@ -1,8 +1,7 @@
 ##App de Organização de Finanças Pessoais com Vibe Coding
 
-##FinFacil: Agente financeiro pessoal
 
-# README – PRD Refinado: Aplicativo de Organização de Finanças Pessoais
+# README – PRD Refinado: Aplicativo FinFacil: Agente financeiro pessoal
 
 ## Contexto
 Criar um aplicativo de organização de finanças pessoais que funcione por meio de conversas com o usuário.  
