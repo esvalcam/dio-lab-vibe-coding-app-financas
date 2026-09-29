@@ -3,7 +3,7 @@
 #Finfacile
 
 
-# README – PRD Refinado: Aplicativo FinFacil: Agente financeiro pessoal
+# README – PRD Refinado: Aplicativo FinFacile: Agente financeiro pessoal
 
 ## Contexto
 Criar um aplicativo de organização de finanças pessoais que funcione por meio de conversas com o usuário.  
@@ -34,13 +34,15 @@ Resultado final: https://finfacile.lovable.app
 
 
 ## Funcionalidades-
-1. Registrar gastos via chat em linguagem natural.  
+1. Registrar gastos e depósitos via chat em linguagem natural. 
 2. Classificar automaticamente as transações.  
 3. Definir e acompanhar metas financeiras.  
 4. Receber dicas de economia do “Agente Financeiro”.  
 5. Visualizar relatórios simples e personalizados.  
 6. Gráfico em pizza para mostrar a distribuição dos gastos por categoria.  
 7. Recursos de acessibilidade: alternar entre light mode e dark mode, ajustar tamanho da fonte.  
+8. Chat por voz 
+
 
 ##Uma breve reflexão sobre o processo:
 O que funcionou bem?
