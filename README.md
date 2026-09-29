@@ -1,5 +1,7 @@
 ##App de Organização de Finanças Pessoais com Vibe Coding
 
+#Finfacile
+
 
 # README – PRD Refinado: Aplicativo FinFacil: Agente financeiro pessoal
 
@@ -26,7 +28,7 @@ Tom educativo e linguagem acessível em português.
 Crie um aplicativo de finanças pessoais com base no seguinte PRD (descrito acima)
 Ativar o login e o armazenamento na nuvem
 
-Resultado final: https://finfacil-financaspessoais.lovable.app
+Resultado final: https://finfacile.lovable.app
 
 <img width="1072" height="616" alt="image" src="https://github.com/user-attachments/assets/ab832250-2d5c-4f68-835b-57b1aa17c8ed" />  
 
