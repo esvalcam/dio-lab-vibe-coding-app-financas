@@ -30,6 +30,9 @@ Ativar o login e o armazenamento na nuvem
 
 Resultado final: https://finfacile.lovable.app
 
+<img width="515" height="642" alt="image" src="https://github.com/user-attachments/assets/f28a9ba7-4a7f-4cf7-be63-0408d18c7d58" />
+
+
 <img width="1134" height="710" alt="image" src="https://github.com/user-attachments/assets/9ab0ae16-25b1-499f-9740-e3220b930bfd" />
 
 
